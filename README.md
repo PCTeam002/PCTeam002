@@ -4,7 +4,7 @@
 
 🎓 **Bachelor of Informatics Engineering** from State University of Malang with *cum laude* honors (GPA: 3.93).  
 💻 Passionate Full Stack Developer and Machine Learning Enthusiast.  
-🌍 Based in Sukoharjo, Central Java, Indonesia.
+🌍 Based in Surakarta, Central Java, Indonesia.
 
 ---
 
