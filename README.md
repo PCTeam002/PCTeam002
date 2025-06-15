@@ -19,60 +19,38 @@
 ## 🚀 Tech Stack
 
 ### 🧠 Languages
-<img src="./assets/HTML.svg" width="50" alt="HTML" />
-<img src="./assets/CSS.svg" width="50" alt="CSS" />
-<img src="./assets/JavaScript.svg" width="50" alt="JavaScript" />
-<img src="./assets/TypeScript.svg" width="50" alt="TypeScript" />
-<img src="./assets/PHP-Dark.svg" width="50" alt="PHP" />
-<img src="./assets/Python-Dark.svg" width="50" alt="Python" />
-<img src="./assets/Java-Dark.svg" width="50" alt="Java" />
-<!-- Tambahkan jika punya -->
-<!-- <img src="./assets/Cpp.svg" width="50" alt="C++" /> -->
+[![Languages](https://skillicons.dev/icons?i=js,html,css,js,ts,php,py,java)](https://skillicons.dev)
+
 
 ---
 
 ### 🧱 Frameworks
-<img src="./assets/Laravel-Dark.svg" width="50" alt="Laravel" />
-<img src="./assets/Symfony-Dark.svg" width="50" alt="Symfony" />
-<img src="./assets/NestJS-Dark.svg" width="50" alt="NestJS" />
-<img src="./assets/NextJS-Dark.svg" width="50" alt="Next.js" />
-<img src="./assets/NodeJS-Dark.svg" width="50" alt="Node.js" />
-<img src="./assets/ExpressJS-Dark.svg" width="50" alt="Express.js" />
+[![Frameworks](https://skillicons.dev/icons?i=laravel,symfony,nest,nodejs,express)](https://skillicons.dev)
+
 
 ---
 
 ### 📚 Libraries
-<img src="./assets/React-Dark.svg" width="50" alt="React" />
-<img src="./assets/Redux.svg" width="50" alt="Redux" />
-<img src="./assets/JQuery.svg" width="50" alt="jQuery" />
-<img src="./assets/Jest.svg" width="50" alt="Jest" />
-<img src="./assets/TailwindCSS-Dark.svg" width="50" alt="Tailwind CSS" />
-<img src="./assets/Prisma.svg" width="50" alt="Prisma ORM" />
+[![Libraries](https://skillicons.dev/icons?i=react,redux,jquery,jest,tailwindcss,prisma)](https://skillicons.dev)
 
 ---
 
 ### 🤖 Machine Learning
-<img src="./assets/TensorFlow-Dark.svg" width="50" alt="TensorFlow" />
-<img src="./assets/PyTorch-Dark.svg" width="50" alt="PyTorch" />
+[![Languages](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 
 ---
 
 ### 🗄️ Databases
-<img src="./assets/MySQL-Dark.svg" width="50" alt="MySQL" />
-<img src="./assets/PostgreSQL-Dark.svg" width="50" alt="PostgreSQL" />
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
 ---
 
 ### 🛠️ Tools
-<img src="./assets/Git.svg" width="50" alt="Git" />
-<img src="./assets/Postman.svg" width="50" alt="Postman" />
-<img src="./assets/Figma-Dark.svg" width="50" alt="Figma" />
-
-
+[![Tools](https://skillicons.dev/icons?i=git,postman,figma)](https://skillicons.dev)
 
 ---
 
-## 🧩 Selected Projects
+## 🧩 rojects
 
 - 🔧 [TEMPLIX](http://templix.dev) — Secure & scalable web app starter template with NestJS + ReactJS.  
 - 🧠 **Academic Grade Prediction** — ML models (LogReg, Naive Bayes, Random Forest) with 78%+ accuracy.  
