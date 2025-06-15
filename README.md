@@ -50,7 +50,7 @@
 
 ---
 
-## 🧩 rojects
+## 🧩 Projects
 
 - 🔧 [TEMPLIX](http://templix.dev) — Secure & scalable web app starter template with NestJS + ReactJS.  
 - 🧠 **Academic Grade Prediction** — ML models (LogReg, Naive Bayes, Random Forest) with 78%+ accuracy.  
